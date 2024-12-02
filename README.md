@@ -72,4 +72,3 @@ Both notebooks are available in the `Notebooks` directory and can be executed in
 ---
 
 Thank you for exploring our project!  
-For further inquiries, feel free to contact us at [your-email@example.com].
