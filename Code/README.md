@@ -30,5 +30,27 @@ You can access the notebook on Google Colab via the following link:
 
 ---
 
+## Prerequisites
+
+The environment requirements for running this project can be accessed from the main page: [Environment Requirements](https://github.com/STATS201-DKU-Autumn2024/Final_Project_Tangxu/tree/main).
+
+Ensure all dependencies listed in the `requirements.txt` file are installed before running the notebook.
+
+---
+
 ## Usage Instructions
 
+The primary code for this analysis is contained in the Jupyter Notebook file **Enhancing_Predictive_Maintenance_for_Turbofan_Engines.ipynb**. This notebook is designed to be executed in Google Colab, providing an interactive environment where users can modify parameters and observe real-time results of the predictive maintenance models.
+
+### Download the Dataset
+
+1. Download the **NASA Turbofan Engine Degradation Simulation Dataset** from the [project data folder](https://github.com/STATS201-DKU-Autumn2024/Final_Project_Tangxu/tree/main/Data).
+2. Upload the downloaded data files to your Google Colab environment for seamless access.
+
+### Running the Notebook
+
+1. Open the **Enhancing_Predictive_Maintenance_for_Turbofan_Engines.ipynb** file directly in Google Colab by using the following link:  
+   [Open in Colab](https://colab.research.google.com/drive/1DL0-iba6HReCSmTpzFwX3IJCCE68inaf#scrollTo=W_mD1ptTbSNs).
+2. Ensure that all required libraries (e.g., `pandas`, `numpy`, `matplotlib`, `scikit-learn`, `tensorflow`) are installed within the Colab environment. Most dependencies are pre-installed in Colab.
+3. Upload the dataset files to your Colab environment using the file upload utility.
+4. Execute each cell in the notebook sequentially to perform data preprocessing, model training, visualization, and evaluation for predictive maintenance tasks.
