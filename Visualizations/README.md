@@ -22,7 +22,7 @@ This directory contains visualizations generated as part of the predictive maint
 
 ### 3. **RUL Predictions**
    - **File:** `RUL.png`
-   - **Description:** A plot comparing the true RUL values against the predicted RUL values from the implemented models (LSTM/TCN).
+   - **Description:** A plot comparing the true RUL values against the predicted RUL values from the implemented LSTM model.
    - **Insights:**
      - Evaluates the accuracy of the predictive models.
      - Highlights areas where model predictions deviate from actual RUL values, indicating potential improvement opportunities.
