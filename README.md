@@ -1,6 +1,6 @@
 # Enhancing Predictive Maintenance for Turbofan Engines
 
-## Authors
+## Author
 - **Tangxu Ji**: Lead Developer, Data Analyst, and Report Author  
 
 ---
