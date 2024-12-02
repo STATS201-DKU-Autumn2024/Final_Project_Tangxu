@@ -1,6 +1,6 @@
 ## Prerequisites
 
-The environment requirements for running this project can be accessed from the main page: [Environment Requirements](https://github.com/STATS201-DKU-Autumn2024/Final_Project_Tangxu/tree/main).
+The environment requirements for running this project can be accessed from the main page: [Environment Requirements](https://github.com/STATS201-DKU-Autumn2024/Final_Project_Tangxu/tree/main/Docs/Dependencies).
 
 Ensure all dependencies listed in the `installed_packages.txt` file are installed before running the notebook.
 
