@@ -32,7 +32,7 @@ This project has significantly contributed to our growth, equipping us with the 
 ## Embedded Media
 
 ### Poster
-![Project Poster](poster-image-path.jpg)  
+[Project Poster](Poster.png)  
 
 ---
 
