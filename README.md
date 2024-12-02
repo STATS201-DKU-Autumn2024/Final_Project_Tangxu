@@ -57,7 +57,7 @@ The main code for this project is organized into two Jupyter notebooks:
 1. **Enhancing_Predictive_Maintenance_for_Turbofan_Engines.ipynb**: Implements LSTM-based predictive maintenance.  
 2. **TCN_and_Visualization_using_SHAP.ipynb**: Implements TCN-based predictive maintenance and SHAP-based explainability.  
 
-Both notebooks are available in the `Notebooks` directory and can be executed in Google Colab:
+Both notebooks are available in the `Code` directory and can be executed in Google Colab:
 - [LSTM Notebook](https://colab.research.google.com/drive/1DL0-iba6HReCSmTpzFwX3IJCCE68inaf#scrollTo=W_mD1ptTbSNs)  
 - [TCN and SHAP Notebook](https://colab.research.google.com/drive/1_uNJm4qtow-2Esn_ZCvqRnrXpzeZ2Lc1#scrollTo=x_NrR6PfzNpH)  
 
