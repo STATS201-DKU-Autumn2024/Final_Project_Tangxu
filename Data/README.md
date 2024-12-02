@@ -1,4 +1,4 @@
-# Predictive Maintenance Data for Vehicle Systems
+# Enhancing Predictive Maintenance for Turbofan Engines
 
 This project focuses on the **Turbofan Engine Degradation Simulation Data Set** (Saxena and Goebel 2008) from NASA’s Prognostics Data Repository. The dataset consists of time-series sensor data simulating turbofan engines operating under various conditions until failure. It is designed to support predictive maintenance modeling by capturing real-time degradation patterns in high-stress components.
 
