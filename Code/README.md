@@ -47,7 +47,7 @@ You can access this notebook on Google Colab via the following link:
 
 ## Prerequisites
 
-The environment requirements for running this project can be accessed from the main page: [Environment Requirements](https://github.com/STATS201-DKU-Autumn2024/Final_Project_Tangxu/tree/main).
+The environment requirements for running this project can be accessed from the main page: [Environment Requirements](https://github.com/STATS201-DKU-Autumn2024/Final_Project_Tangxu/tree/main/Docs/Dependencies).
 
 Ensure all dependencies listed in the `installed_packages.txt` file are installed before running the notebooks. Most required libraries, including `pandas`, `numpy`, `matplotlib`, `scikit-learn`, and `tensorflow`, are pre-installed in Google Colab.
 
