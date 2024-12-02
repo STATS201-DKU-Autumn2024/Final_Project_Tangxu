@@ -27,6 +27,13 @@ This directory contains visualizations generated as part of the predictive maint
      - Evaluates the accuracy of the predictive models.
      - Highlights areas where model predictions deviate from actual RUL values, indicating potential improvement opportunities.
 
+### 4. **Correlation Heatmap**
+   - **File:** `Heatmap.png`
+   - **Description:** A heatmap visualizing correlations between sensor measurements.
+   - **Insights:**
+     - Identifies strong relationships between features, providing clues for feature engineering and model optimization.
+     - Highlights multicollinearity or redundant information, aiding in feature selection.
+
 ---
 
 ## Purpose of Visualizations
@@ -35,6 +42,7 @@ The visualizations in this directory are designed to:
 - Provide interpretability for machine learning models by analyzing feature contributions using SHAP.
 - Illustrate the temporal dynamics of sensor readings to understand degradation trends.
 - Evaluate and compare model predictions to validate performance.
+- Highlight correlations between features for better feature engineering and model refinement.
 
 ---
 
@@ -49,7 +57,7 @@ The visualizations in this directory are designed to:
 3. **Recreate the Visualizations:**
    Run the relevant Jupyter notebooks in the repository to generate these visualizations. For example:
    - SHAP visualizations can be recreated in the `TCN_and_Visualization_using_SHAP.ipynb` notebook.
-   - Time-series plots and RUL predictions can be generated in both `Enhancing_Predictive_Maintenance_for_Turbofan_Engines.ipynb` and `TCN_and_Visualization_using_SHAP.ipynb`.
+   - Time-series plots, RUL predictions, and heatmaps can be generated in both `Enhancing_Predictive_Maintenance_for_Turbofan_Engines.ipynb` and `TCN_and_Visualization_using_SHAP.ipynb`.
 
 ---
 
@@ -63,4 +71,4 @@ The visualizations in this directory are designed to:
 
 ---
 
-These visualizations are essential for understanding the performance and behavior of predictive maintenance models and for supporting actionable decision-making in engineering applications.
+These visualizations are essential for understanding the performance and behavior of predictive maintenance models, exploring feature relationships, and supporting actionable decision-making in engineering applications.
