@@ -28,7 +28,7 @@ This project, *Enhancing Predictive Maintenance for Turbofan Engines*, was submi
 We extend our gratitude to the following contributors and resources:  
 - **Prof. Luyao Zhang**: For providing expert guidance, feedback, and inspiring discussions throughout the course.  
 - **Classmates**: For offering collaborative support and exchanging ideas during project development.  
-- **AIGC Tools**: For assisting with coding, writing, and problem-solving (e.g., ChatGPT, Colab, Whimscal).  
+- **AIGC Tools**: For assisting with coding, writing, and problem-solving (e.g., ChatGPT, Colab, Whimsical).  
 - **Open-Source Software**: Tools like TensorFlow, Pandas, NumPy, and Matplotlib that made this project possible.  
 
 ---
