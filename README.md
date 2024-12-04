@@ -1,5 +1,19 @@
 # Enhancing Predictive Maintenance for Turbofan Engines
 
+## Table of Contents
+- [Project Overview](https://github.com/STATS201-DKU-Autumn2024/Final_Project_Tangxu/tree/main/Code)  
+- [Authors](#authors)  
+- [Disclaimer](#disclaimer)  
+- [Acknowledgments](#acknowledgments)  
+- [Statement of Intellectual and Professional Growth](#statement-of-intellectual-and-professional-growth)  
+- [Embedded Media](#embedded-media)  
+- [Navigation Instructions](#navigation-instructions)  
+  - [Code for Simulations and Visualizations](#code-for-simulations-and-visualizations)  
+  - [Datasets and Preprocessing Steps](#datasets-and-preprocessing-steps)  
+  - [Documentation and Dependencies](#documentation-and-dependencies)
+
+---
+
 ## Author
 - **Tangxu Ji**: Lead Developer, Data Analyst, and Report Author  
 
@@ -33,20 +47,6 @@ This project has significantly contributed to our growth, equipping us with the 
 
 ### Poster
 [Project Poster](https://github.com/STATS201-DKU-Autumn2024/Final_Project_Tangxu/blob/main/Poster.pdf)
-
----
-
-## Table of Contents
-- [Project Overview](#project-overview)  
-- [Navigation Instructions](#navigation-instructions)  
-  - [Code for Simulations and Visualizations](#code-for-simulations-and-visualizations)  
-  - [Datasets and Preprocessing Steps](#datasets-and-preprocessing-steps)  
-  - [Documentation and Dependencies](#documentation-and-dependencies)  
-- [Authors](#authors)  
-- [Disclaimer](#disclaimer)  
-- [Acknowledgments](#acknowledgments)  
-- [Statement of Intellectual and Professional Growth](#statement-of-intellectual-and-professional-growth)  
-- [Embedded Media](#embedded-media)  
 
 ---
 
