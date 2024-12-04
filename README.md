@@ -48,6 +48,8 @@ This project has significantly contributed to our growth, equipping us with the 
 ### Poster
 [Project Poster](https://github.com/STATS201-DKU-Autumn2024/Final_Project_Tangxu/blob/main/Poster.pdf)
 
+### Project Flowchart
+
 ---
 
 ## Navigation Instructions
