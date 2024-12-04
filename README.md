@@ -49,7 +49,7 @@ This project has significantly contributed to our growth, equipping us with the 
 [Project Poster](https://github.com/STATS201-DKU-Autumn2024/Final_Project_Tangxu/blob/main/Poster.pdf)
 
 ### Project Flowchart
-![Flowchart](https://github.com/STATS201-DKU-Autumn2024/Week5_Tangxu/blob/main/Code/SHAP.png)
+![Flowchart](https://github.com/STATS201-DKU-Autumn2024/Final_Project_Tangxu/blob/main/Flowchart.png)
 
 ---
 
