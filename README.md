@@ -51,6 +51,9 @@ This project has significantly contributed to our growth, equipping us with the 
 ### Project Flowchart
 ![Flowchart](https://github.com/STATS201-DKU-Autumn2024/Final_Project_Tangxu/blob/main/Flowchart.png)
 
+### Demo Video
+[Watch Demo Video](https://github.com/STATS201-DKU-Autumn2024/Final_Project_Tangxu/blob/main/Demo.mp4)
+
 ---
 
 ## Navigation Instructions
