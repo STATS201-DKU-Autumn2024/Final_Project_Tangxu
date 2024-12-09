@@ -30,7 +30,7 @@ The notebook file `Enhancing_Predictive_Maintenance_for_Turbofan_Engines.ipynb` 
 6. **Model Evaluation**: Using RMSE and other evaluation metrics to assess the predictive capability of the model.
 
 You can access this notebook on Google Colab via the following link:  
-[Colab Notebook 1: LSTM-Based Predictive Maintenance]((https://colab.research.google.com/drive/1jcLABjjTRogIBM1XDIZbh4oTrAxyuKBp)
+[Colab Notebook 1: LSTM-Based Predictive Maintenance](https://colab.research.google.com/drive/1jcLABjjTRogIBM1XDIZbh4oTrAxyuKBp)
 
 ### Notebook 2: TCN and SHAP-Based Predictive Maintenance
 The notebook file `TCN_and_Visualization_using_SHAP.ipynb` includes the following sections:
